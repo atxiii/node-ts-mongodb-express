@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+
+
+
+# node-waf configuration
+.lock-wscript
+
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# OSX hidden files
+.DS_Store
+
+# vsCode
+.vscode/
+
+# build directory
+build/
